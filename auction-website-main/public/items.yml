@@ -1,0 +1,264 @@
+- id: 0
+  category: Luxury Watches
+  primaryImage: rolex-submariner
+  title: Rolex Submariner
+  subtitle: Swiss Luxury Timepiece
+  detail: A legendary Rolex Submariner featuring timeless craftsmanship, a ceramic bezel, and premium Oystersteel construction.
+  secondaryImage: rolex-submariner
+  currency: £
+  amount: 12500
+  endTime: 2026-12-25T00:05:00+00:00
+
+- id: 1
+  category: Luxury Watches
+  primaryImage: patek-philippe
+  title: Patek Philippe Nautilus
+  subtitle: Rare Collector Edition
+  detail: An iconic luxury sports watch admired worldwide for its elegant design and exclusivity among elite collectors.
+  secondaryImage: patek-philippe
+  currency: £
+  amount: 48000
+  endTime: 2026-12-25T00:10:00+00:00
+
+- id: 2
+  category: Luxury Watches
+  primaryImage: omega-speedmaster
+  title: Omega Speedmaster
+  subtitle: Moonwatch Professional
+  detail: The legendary Omega Speedmaster, famous for its NASA moon mission history and timeless chronograph design.
+  secondaryImage: omega-speedmaster
+  currency: £
+  amount: 8900
+  endTime: 2026-12-25T00:15:00+00:00
+
+- id: 3
+  category: Luxury Watches
+  primaryImage: audemars-piguet
+  title: Audemars Piguet Royal Oak
+  subtitle: Luxury Sports Icon
+  detail: A masterpiece of luxury watchmaking featuring the iconic octagonal bezel and exceptional Swiss craftsmanship.
+  secondaryImage: audemars-piguet
+  currency: £
+  amount: 72000
+  endTime: 2026-12-25T00:20:00+00:00
+
+- id: 4
+  category: Luxury Watches
+  primaryImage: tag-heuer
+  title: Tag Heuer Carrera
+  subtitle: Motorsport Heritage
+  detail: Inspired by professional racing, the Carrera blends precision engineering with bold modern aesthetics.
+  secondaryImage: tag-heuer
+  currency: £
+  amount: 6400
+  endTime: 2026-12-25T00:25:00+00:00
+
+- id: 5
+  category: Luxury Watches
+  primaryImage: richard-mille
+  title: Richard Mille RM 11
+  subtitle: Elite Racing Chronograph
+  detail: A futuristic luxury timepiece crafted with advanced materials and worn by world-class athletes and celebrities.
+  secondaryImage: richard-mille
+  currency: £
+  amount: 185000
+  endTime: 2026-12-25T00:30:00+00:00
+
+- id: 6
+  category: Supercars
+  primaryImage: ferrari-sf90
+  title: Ferrari SF90 Stradale
+  subtitle: Hybrid Hypercar
+  detail: Ferrari’s revolutionary hybrid hypercar delivering breathtaking speed and futuristic Italian engineering.
+  secondaryImage: ferrari-sf90
+  currency: £
+  amount: 550000
+  endTime: 2026-12-25T00:35:00+00:00
+
+- id: 7
+  category: Supercars
+  primaryImage: lamborghini-aventador
+  title: Lamborghini Aventador
+  subtitle: V12 Italian Beast
+  detail: An aggressive V12-powered supercar featuring iconic scissor doors and unmatched road presence.
+  secondaryImage: lamborghini-aventador
+  currency: £
+  amount: 670000
+  endTime: 2026-12-25T00:40:00+00:00
+
+- id: 8
+  category: Supercars
+  primaryImage: porsche-911
+  title: Porsche 911 Turbo S
+  subtitle: German Precision
+  detail: A luxury performance machine delivering exceptional speed, comfort, and engineering perfection.
+  secondaryImage: porsche-911
+  currency: £
+  amount: 210000
+  endTime: 2026-12-25T00:45:00+00:00
+
+- id: 9
+  category: Supercars
+  primaryImage: bugatti-chiron
+  title: Bugatti Chiron
+  subtitle: Ultimate Hypercar
+  detail: One of the fastest and most exclusive hypercars ever built with extraordinary luxury and engineering.
+  secondaryImage: bugatti-chiron
+  currency: £
+  amount: 2500000
+  endTime: 2026-12-25T00:50:00+00:00
+
+- id: 10
+  category: Supercars
+  primaryImage: mclaren-p1
+  title: McLaren P1
+  subtitle: Hybrid Performance Legend
+  detail: A legendary hypercar combining Formula 1-inspired technology with stunning aerodynamic design.
+  secondaryImage: mclaren-p1
+  currency: £
+  amount: 1450000
+  endTime: 2026-12-25T00:55:00+00:00
+
+- id: 11
+  category: Supercars
+  primaryImage: rolls-royce
+  title: Rolls Royce Phantom
+  subtitle: Luxury Beyond Limits
+  detail: The pinnacle of automotive luxury featuring handcrafted interiors and unmatched elegance.
+  secondaryImage: rolls-royce
+  currency: £
+  amount: 890000
+  endTime: 2026-12-25T01:00:00+00:00
+
+- id: 12
+  category: Sneakers Collection
+  primaryImage: jordan1
+  title: Air Jordan 1 Retro
+  subtitle: Streetwear Classic
+  detail: One of the most iconic sneakers ever created, combining basketball heritage with timeless street fashion.
+  secondaryImage: jordan1
+  currency: £
+  amount: 2400
+  endTime: 2026-12-25T01:05:00+00:00
+
+- id: 13
+  category: Sneakers Collection
+  primaryImage: yeezy350
+  title: Yeezy Boost 350
+  subtitle: Limited Edition Drop
+  detail: A highly sought-after sneaker blending futuristic comfort with minimalist luxury aesthetics.
+  secondaryImage: yeezy350
+  currency: £
+  amount: 3200
+  endTime: 2026-12-25T01:10:00+00:00
+
+- id: 14
+  category: Sneakers Collection
+  primaryImage: nikesb
+  title: Nike Dunk Low
+  subtitle: Collector Sneaker
+  detail: A modern sneaker icon inspired by retro basketball culture and premium streetwear fashion.
+  secondaryImage: nikesb
+  currency: £
+  amount: 1800
+  endTime: 2026-12-25T01:15:00+00:00
+
+- id: 15
+  category: Sneakers Collection
+  primaryImage: travisscott
+  title: Travis Scott Jordan
+  subtitle: Hypebeast Essential
+  detail: A rare collaboration sneaker highly valued among collectors and streetwear enthusiasts.
+  secondaryImage: travisscott
+  currency: £
+  amount: 9500
+  endTime: 2026-12-25T01:20:00+00:00
+
+- id: 16
+  category: Sneakers Collection
+  primaryImage: offwhite
+  title: Off White Air Force 1
+  subtitle: Designer Collaboration
+  detail: A luxury reinterpretation of the classic Air Force silhouette designed by Virgil Abloh.
+  secondaryImage: offwhite
+  currency: £
+  amount: 7400
+  endTime: 2026-12-25T01:25:00+00:00
+
+- id: 17
+  category: Sneakers Collection
+  primaryImage: newbalance
+  title: New Balance 550
+  subtitle: Retro Court Style
+  detail: A premium retro-inspired sneaker combining classic basketball aesthetics with modern comfort.
+  secondaryImage: newbalance
+  currency: £
+  amount: 1300
+  endTime: 2026-12-25T01:30:00+00:00
+
+- id: 18
+  category: Rare Paintings
+  primaryImage: monalisa
+  title: Mona Lisa Replica
+  subtitle: Renaissance Masterpiece
+  detail: A premium recreation inspired by Leonardo da Vinci’s timeless masterpiece admired worldwide.
+  secondaryImage: monalisa
+  currency: £
+  
+  amount: 95000
+  endTime: 2026-12-25T01:35:00+00:00
+
+- id: 19
+  category: Rare Paintings
+  primaryImage: starrynight
+  title: Starry Night Edition
+  subtitle: Van Gogh Inspired
+  detail: An artistic recreation inspired by Van Gogh’s legendary Starry Night with mesmerizing detail.
+  secondaryImage: starrynight
+  currency: £
+  amount: 78000
+  endTime: 2026-12-25T01:40:00+00:00
+
+- id: 20
+  category: Rare Paintings
+  primaryImage: thescream
+  title: The Scream Replica
+  subtitle: Expressionist Artwork
+  detail: A dramatic expressionist-inspired masterpiece reflecting emotion, tension, and artistic brilliance.
+  secondaryImage: thescream
+  currency: £
+  amount: 68000
+  endTime: 2026-12-25T01:45:00+00:00
+
+- id: 21
+  category: Rare Paintings
+  primaryImage: abstractgold
+  title: Abstract Gold Collection
+  subtitle: Luxury Modern Canvas
+  detail: A premium modern abstract artwork featuring gold textures and elegant luxury aesthetics.
+  secondaryImage: abstractgold
+  currency: £
+  amount: 35000
+  endTime: 2026-12-25T01:50:00+00:00
+
+- id: 22
+  category: Rare Paintings
+  primaryImage: luxurycanvas
+  title: Luxury Canvas Art
+  subtitle: Contemporary Statement Piece
+  detail: A visually striking luxury canvas artwork crafted for elite interior aesthetics and collectors.
+  secondaryImage: luxurycanvas
+  currency: £
+  amount: 42000
+  endTime: 2026-12-25T01:55:00+00:00
+
+- id: 23
+  category: Rare Paintings
+  primaryImage: renaissanceart
+  title: Renaissance Portrait
+  subtitle: Classical Elegance
+  detail: A classical portrait artwork inspired by historic Renaissance masterpieces and royal aesthetics.
+  secondaryImage: renaissanceart
+  currency: £
+  amount: 88000
+  endTime: 2026-12-25T02:00:00+00:00
